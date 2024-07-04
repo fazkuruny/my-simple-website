@@ -3,3 +3,6 @@ div{
     padding-bottom: 10px;
     margin: 3px;
 }
+li{
+    -moz-text-decoration-line: overline rgb(43, 226, 119);
+}
